@@ -58,12 +58,13 @@ A dark cinematic interface keeps distractions out of the way while clean layouts
 
 ---
 
-📱 Screenshots
+## 📱 Screenshots
 
-<p align="center"><!-- Add your screenshots here -->"Coming soon"
-
-</p>---
-
+<p align="center">
+  <img src="https://i.postimg.cc/wxs96Qfr/Screenshot-20260830-142059.jpg" width="250">
+  <img src="https://i.postimg.cc/zDRqJF2Z/Screenshot-20260830-142104.jpg" width="250">
+  <img src="https://i.postimg.cc/pVnP2JG4/Screenshot-20260830-142110.jpg" width="250">
+</p>
 📦 Installation
 
 1. Download Raflix
