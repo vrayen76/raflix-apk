@@ -7,7 +7,7 @@ Your movies. Your way.
   <strong>🍿 A modern, lightweight movie streaming experience built for Android.</strong>
 </p><p align="center">
   <img src="https://img.shields.io/badge/Platform-Android-black?style=for-the-badge&logo=android" alt="Android">
-  <img src="https://img.shields.io/badge/Version-10.0.0-red?style=for-the-badge" alt="Version">
+  <img src="https://img.shields.io/badge/Version-12.0.0-red?style=for-the-badge" alt="Version">
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status">
 </p>---
 
