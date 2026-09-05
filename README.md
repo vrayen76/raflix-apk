@@ -85,9 +85,9 @@ Open Raflix and start exploring.
 
 🛠️ Version
 
-Current Release: "v10.0.0"
+Current Release: "v12.0.0"
 
-Raflix v10.0.0
+Raflix v12.0.0
 ├── Android
 ├── Movie Discovery
 ├── Search
